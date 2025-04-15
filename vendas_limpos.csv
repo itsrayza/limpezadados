@@ -1,0 +1,5 @@
+id,produto,valor_venda,custo,data_venda,cliente,lucro,ano_venda
+1,celular x,2000.0,1500,2024-10-01,maria souza,500.0,2024.0
+2,celular x,0.0,1400,,joao da silva,-1400.0,
+3,celular x,1950.0,1450,,joão da silva,500.0,
+4,tablet pro,1500.0,1000,,maria souza,500.0,

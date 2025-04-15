@@ -1,0 +1,6 @@
+id,produto,valor_venda,custo,data_venda,cliente
+1,Celular X,2000.0,1500,10/01/2024,Maria Souza
+2,celular-x,,1400,2024-01-11,JOAO DA SILVA
+3,CELULARX,1950.0,1450,11-01-2024,João da Silva
+4,Tablet Pro,1500.0,1000,13/01/2024,Maria Souza
+2,celular-x,,1400,2024-01-11,JOAO DA SILVA
